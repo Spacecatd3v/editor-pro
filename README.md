@@ -258,11 +258,11 @@ Editor Pro follows a **local-first** architecture.
 
 * 📴 No account required
 * 🔒 Notes are stored in browser `localStorage`
+* 📦 Fonts are bundled locally
+* 🛡️ Rendered Markdown is sanitized with DOMPurify
 * 🚫 No telemetry
 * 🚫 No tracking cookies
 * 🚫 No external analytics
-* 📦 Fonts are bundled locally
-* 🛡️ Rendered Markdown is sanitized with DOMPurify
 
 ### Important
 
