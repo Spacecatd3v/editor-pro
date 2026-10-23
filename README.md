@@ -1,12 +1,12 @@
 # 📝 Editor Pro
 
 <p align="center">
-  <strong>A fast, modern notepad and Markdown editor with multi-note management and a local-first experience.</strong>
+  <strong>A fast, modern notepad and Markdown editor with multi-note management and a local-first experience</strong>
 </p>
 
 <p align="center">
   Write, organize, preview, and export your notes directly in your browser.
-  No account. No backend. Just a fast, private, local-first editor.
+  No account. No backend. Just a fast, private, local-first editor
 </p>
 
 <p align="center">
