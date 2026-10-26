@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TizioQualunquee/editor-pro"><img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
-  <a href="https://github.com/TizioQualunquee/editor-pro/stargazers"><img src="https://img.shields.io/github/stars/TizioQualunquee/editor-pro?style=for-the-badge&logo=github" alt="GitHub Stars"></a>
-  <a href="https://github.com/TizioQualunquee/editor-pro/network/members"><img src="https://img.shields.io/github/forks/TizioQualunquee/editor-pro?style=for-the-badge&logo=github" alt="GitHub Forks"></a>
-  <a href="https://github.com/TizioQualunquee/editor-pro/issues"><img src="https://img.shields.io/github/issues/TizioQualunquee/editor-pro?style=for-the-badge&logo=github" alt="GitHub Issues"></a>
-  <a href="https://github.com/TizioQualunquee/editor-pro/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/Spacecatd3v/editor-pro"><img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+  <a href="https://github.com/Spacecatd3v/editor-pro/stargazers"><img src="https://img.shields.io/github/stars/Spacecatd3v/editor-pro?style=for-the-badge&logo=github" alt="GitHub Stars"></a>
+  <a href="https://github.com/Spacecatd3v/editor-pro/network/members"><img src="https://img.shields.io/github/forks/Spacecatd3v/editor-pro?style=for-the-badge&logo=github" alt="GitHub Forks"></a>
+  <a href="https://github.com/Spacecatd3v/editor-pro/issues"><img src="https://img.shields.io/github/issues/Spacecatd3v/editor-pro?style=for-the-badge&logo=github" alt="GitHub Issues"></a>
+  <a href="https://github.com/Spacecatd3v/editor-pro/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License"></a>
 </p>
 
 ---
@@ -196,7 +196,7 @@ Editor Pro requires no installation, package manager, or build process.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/TizioQualunquee/editor-pro.git
+git clone https://github.com/Spacecatd3v/editor-pro.git
 cd editor-pro
 ```
 
@@ -278,7 +278,7 @@ Your browser is not a backup strategy. Humanity has learned this lesson repeated
 
 | Contributor                                                | Role                                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| **[@TizioQualunquee](https://github.com/TizioQualunquee)** | Original creator and author of the initial editor foundation |
+| **[@Spacecatd3v](https://github.com/Spacecatd3v)** | Original creator and author of the initial editor foundation |
 | **[@Semplicementeio](https://github.com/Semplicementeio)** | Major overhaul and v2.0 architecture                         |
 
 The v2.0 overhaul introduced the multi-note workspace, themes, offline typography, responsive mobile UX, advanced Markdown tooling, table generation, and productivity features.
@@ -289,7 +289,7 @@ The v2.0 overhaul introduced the multi-note workspace, themes, offline typograph
 
 Editor Pro is distributed under the **MIT License**.
 
-See [`LICENSE`](https://github.com/TizioQualunquee/editor-pro/blob/main/LICENSE) for the full license text.
+See [`LICENSE`](https://github.com/Spacecatd3v/editor-pro/blob/main/LICENSE) for the full license text.
 
 ---
 
